@@ -2,12 +2,11 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="xbt"
-                 name="Установка XBT трекера для DLE+XBT"
-                 start-page="starter.md">
+<instance-profile id="in"
+                 name="IУстановка XBT трекера для DLE+XBT" start-page="starter.md">
 
-    <toc-element topic="starter.md"/>
-    <toc-element topic="install.md"/>
     <toc-element topic="xbt_install.md"/>
     <toc-element topic="xbt_config.md"/>
+    <toc-element topic="starter.md"/>
+    <toc-element topic="install.md"/>
 </instance-profile>
