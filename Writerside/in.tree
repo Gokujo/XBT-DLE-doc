@@ -9,4 +9,5 @@
     <toc-element topic="install.md"/>
     <toc-element topic="xbt_install.md"/>
     <toc-element topic="xbt_config.md"/>
+    <toc-element topic="info.md"/>
 </instance-profile>
