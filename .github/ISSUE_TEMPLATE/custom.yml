@@ -34,7 +34,8 @@ body:
             label: Версия DLE
             description: На какую версию DLE расчитывать?
             options:
-                - "16.x (Default)"
+                - "17.x (Default)"
+                - "16.x"
                 - "15.x"
                 - "14.x"
                 - "13.x"
